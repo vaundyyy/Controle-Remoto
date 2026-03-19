@@ -1,1 +1,2 @@
-# Controle-Remoto
+# Controle Tv
+<p1> Programa pensado para controlar uma TV remotamente em que terá opções para ligar e desligar a televisão, alterar o volume e canal ou para alterar para um canal específico e mutar. Na classe tem um menu para controlar o estado de cada variável e cada opção do menu chama um método para realizar a ação. Os métodos devem contem validações lógicas. Exemplo: não é possível desligar uma televisão já desligada.
